@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+body {
+background-color: rgb(42, 42, 50);
+margin: 20px 200px 0px 200px;
+}
+
+.main {
+    padding-left: 200px;
+}
+
+article {
+    padding: 10px 10px 10px 10px;
+    background-color: rgb(17, 15, 32);
+    width: auto;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+header {
+height: 100px;
+width: auto;
+background-color: rgb(112, 53, 180);
+margin-bottom: 100px;
+}
+
+a {
+    text-decoration: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(183, 56, 206);
+}
+
+a:hover {
+    color: rgb(201, 208, 220);
+}
+
+h1 {
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+margin-left: 237px;
+font-size: 40pt;
+padding: 15px 10px 10px 10px;
+color: aliceblue;
+}
+
+h2 {
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+padding: 10px 10px 10px 10px;
+color: aliceblue;
+}
+
+p {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: aliceblue;
+}
+
+
